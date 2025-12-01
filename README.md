@@ -197,8 +197,6 @@ http://localhost:5000
 
 ## **9. Repository Link**
 
-(Insert after pushing to GitHub)
-
 ```
 https://github.com/Shreyasri30/shoppyglobe-backend
 ```
